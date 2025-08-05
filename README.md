@@ -36,6 +36,6 @@ source venv/bin/activate  # macOS/Linux için
 
 pip install opencv-python deepface
 
-python face_reader.py
+python main.py
 
 
