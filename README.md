@@ -1,6 +1,6 @@
 #  Face Reader - Gerçek Zamanlı Duygu Tanıma
 
-Bu proje, bilgisayar kamerası aracılığıyla bir kişinin yüz ifadelerini analiz eder ve duygu durumunu gerçek zamanlı olarak bir emoji ile birlikte gösterir.
+Bu proje, bilgisayar kamerası aracılığıyla bir kişinin yüz ifadelerini analiz eder ve duygu durumunu gerçek zamanlı olarak gösterir.
 
 ---
 
